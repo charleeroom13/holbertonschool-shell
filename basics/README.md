@@ -14,3 +14,4 @@ pass or pass?
 - 13-symbolic_link: creates a symbolic link to "/bin/ls" named "__ls__" in current working dir.
 - 14-copy_html: copies all ".html" files from current dir to its parent dir, only if they don't exist there or are newer than existing copies.
 - 15-lets_move: moved all files beginning with an uppercase letter to dir "/tmp/u".
+- 16-clean_emacs: deletes all files in current working dir that end with "~" (I just found out it's called Tilde...)
