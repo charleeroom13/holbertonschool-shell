@@ -1,6 +1,6 @@
 pass or pass?
 - 1-listit: lists contents of current dir.
-- 2-bring_me_home: changes working dir to user's home dir (run with `source`).
+- 2-bring_me_home: changes working dir to user's home dir.
 - 3-listfiles: displays contents of current dir in long format.
 - 4-listmorefiles: displays contents of current dir in long format including hidden files.
 - 5-listfilesdigitonly: displays contents of current dir in long format incl. hidden files with user and team IDs showns in numbers.
@@ -11,3 +11,4 @@ pass or pass?
 - 10-back: change working dir to previous one.
 - 11-lists: lists all files incld. hidden ones, in current dir, its parent dir and /boot (on this order - I don't have /boot tho I did this in my local terminal) in long format.
 - 12-file_type: print type of file named "iamafile" which is in "/tmp" dir.
+- 13-symbolic_link: creates a symbolic link to "/bin/ls" named "__ls__" in current working dir.
