@@ -12,3 +12,4 @@ pass or pass?
 - 11-lists: lists all files incld. hidden ones, in current dir, its parent dir and /boot (on this order - I don't have /boot tho I did this in my local terminal) in long format.
 - 12-file_type: print type of file named "iamafile" which is in "/tmp" dir.
 - 13-symbolic_link: creates a symbolic link to "/bin/ls" named "__ls__" in current working dir.
+- 14-copy_html: copies all ".html" files from current dir to its parent dir, only if they don't exist there or are newer than existing copies.
