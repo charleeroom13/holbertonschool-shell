@@ -9,3 +9,4 @@ pass or pass?
 - 8-firstdelete: bye bye betty I'm too lazy to type the whole thing
 - 9-firstdirdeletion: bye bye betty's ex-airnbn.
 - 10-back: change working dir to previous one.
+- 11-lists: lists all files incld. hidden ones, in current dir, its parent dir and /boot (on this order - I don't have /boot tho I did this in my local terminal) in long format.
