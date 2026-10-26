@@ -8,3 +8,4 @@ pass or pass?
 - 7-movethatfile: moves file "betty" from "/tmp/" to "/tmp/my_first_directory".
 - 8-firstdelete: bye bye betty I'm too lazy to type the whole thing
 - 9-firstdirdeletion: bye bye betty's ex-airnbn.
+- 10-back: change working dir to previous one.
