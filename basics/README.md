@@ -5,3 +5,4 @@ pass or pass?
 - 4-listmorefiles: displays contents of current dir in long format including hidden files.
 - 5-listfilesdigitonly: displays contents of current dir in long format incl. hidden files with user and team IDs showns in numbers.
 - 6-firstdirectory: creates a dir named "my_first_directory" in "/tmp/" dir.
+- 7-movethatfile: moves file "betty" from "/tmp/" to "/tmp/my_first_directory".
