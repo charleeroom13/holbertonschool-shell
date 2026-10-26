@@ -10,3 +10,4 @@ pass or pass?
 - 9-firstdirdeletion: bye bye betty's ex-airnbn.
 - 10-back: change working dir to previous one.
 - 11-lists: lists all files incld. hidden ones, in current dir, its parent dir and /boot (on this order - I don't have /boot tho I did this in my local terminal) in long format.
+- 12-file_type: print type of file named "iamafile" which is in "/tmp" dir.
