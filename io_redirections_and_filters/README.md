@@ -10,3 +10,4 @@
 - 7-file: (-_-)
 - 8-cwd_state: writes result of "ls -la" into file "ls_cwd_content", overwriting it if it exists and creating it if it doesn't.
 - 9-duplicate_last_line: duplicates last line of file "iacta"
+- 10-no_more_js: deletes all regular files (not dirs) with a ".js" extension in current dir and all its subfolders.
