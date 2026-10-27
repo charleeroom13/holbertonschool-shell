@@ -5,3 +5,4 @@
 - 2-groups: prints all groups current user is part of :D
 - 3-new_owner: change owner of file "hello" to user "betty". I hope they don't make me get rid of betty again...
 - 4-empty: creates empty file "hello" <3.
+- 5-execute: adds execute perm to owner of "hello" file.
