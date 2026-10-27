@@ -9,3 +9,4 @@
 - 6-third_line: displays 3rd line of file "iacta"
 - 7-file: (-_-)
 - 8-cwd_state: writes result of "ls -la" into file "ls_cwd_content", overwriting it if it exists and creating it if it doesn't.
+- 9-duplicate_last_line: duplicates last line of file "iacta"
