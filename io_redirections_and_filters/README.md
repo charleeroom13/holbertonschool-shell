@@ -7,3 +7,4 @@
 - 4-lastlines: displays last 10 lines of "/etc/passwd".
 - 5-firstlines: displays first 10 lines of "/etc/passwd".
 - 6-third_line: displays 3rd line of file "iacta"
+- 7-file: (-_-)
