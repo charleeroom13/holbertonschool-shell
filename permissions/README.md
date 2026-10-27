@@ -14,3 +14,4 @@
 - 11-directories_permissions: adds x perm to all subdir of current dir for owner, group owner and all other users, without changing regular files.
 - 12-directory_permissions: creates "my_dir" dir with perm 751 in working dir.
 - 13-change_group: changes group owner of file "hello" to "school".
+- 14-change_owner_and_group: changes owner to "vincent" and group owner to "staff" for all files and dirs in working dir.
