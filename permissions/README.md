@@ -11,3 +11,4 @@
 - 8-James_Bond: 007! everyone has all perm except owner and group (lol).
 - 9-John_Doe: 753.
 - 10-mirror_permissions: sets mode of file "hello" to be the same as mode of file "olleh".
+- 11-directories_permissions: adds x perm to all subdir of current dir for owner, group owner and all other users, without changing regular files.
