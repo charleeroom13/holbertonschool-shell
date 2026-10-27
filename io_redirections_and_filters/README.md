@@ -12,3 +12,4 @@
 - 9-duplicate_last_line: duplicates last line of file "iacta"
 - 10-no_more_js: deletes all regular files (not dirs) with a ".js" extension in current dir and all its subfolders.
 - 11-directories: counts number of dirs and subdirs in current dir, incl. hidden ones and excluding "." and ".."
+- 12-newest_files: displays 10 newest files in current dir, one per line, from newest to oldest.
