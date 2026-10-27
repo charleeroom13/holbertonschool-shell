@@ -20,3 +20,4 @@
 - 17-hidethisword: displays all lines in file "/etc/passwd" that do not contain pattern "bin"
 - 18-letteronly`: displays all lines of file "/etc/ssh/sshd_config" starting with a letter (incl. capital letters)
 - 19-AZ: replaces all characters "A" and "c" from input with "Z" and "e" respectively.
+- 20-hiago: removes all letters "c" and "C" from input.
