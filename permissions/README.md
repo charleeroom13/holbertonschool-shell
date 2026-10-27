@@ -9,3 +9,4 @@
 - 6-multiple_permissions: adds execute (x) permission to owner and group owner, and read permission to other users, to file "hello".
 - 7-everybody: adds execute perm to all, to "hello" file.
 - 8-James_Bond: 007! everyone has all perm except owner and group (lol).
+- 9-John_Doe: 753.
