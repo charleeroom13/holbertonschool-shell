@@ -8,3 +8,4 @@
 - 5-firstlines: displays first 10 lines of "/etc/passwd".
 - 6-third_line: displays 3rd line of file "iacta"
 - 7-file: (-_-)
+- 8-cwd_state: writes result of "ls -la" into file "ls_cwd_content", overwriting it if it exists and creating it if it doesn't.
