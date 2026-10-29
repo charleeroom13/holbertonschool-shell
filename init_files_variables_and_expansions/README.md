@@ -11,3 +11,4 @@
 - 8-true_knowledge: prints result of adding 128 to value of environment variable "TRUEKNOWLEDGE". Here comes math questions...
 - 9-divide_and_rule: prints result of "POWER" divided by "DIVIDE"
 - 10-love_exponent_breath: displays result of "BREATH" to power "LOVE"
+- 11-binary_to_decimal: converts a number from base 2 to base 10, taking binary number from environment variable "BINARY".
