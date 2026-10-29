@@ -5,3 +5,4 @@
 - 2-path: adds "/action" to the end of "PATH"
 - 3-paths: counts number of dirs in "PATH"
 - 4-global_variables: lists all environment variables.
+- 5-local_variables: lists all local variables, environment variables and functions.
